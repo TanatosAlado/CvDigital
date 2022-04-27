@@ -109,5 +109,19 @@ h1 {
 }
 
 .portada img{
+  width: 70%;
+  margin-left: 15%;
+}
+
+.esquema{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 15px;
+  height: auto;
+  background-color: grey;
+  text-align: center;
+}
+
+.esquema img{
   width: 100%;
 }
